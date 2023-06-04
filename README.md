@@ -1,2 +1,2 @@
-# GptCourse
+# ChatGptCourse
 Course on DeepAI
