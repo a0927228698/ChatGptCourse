@@ -1,0 +1,2 @@
+# GptCourse
+Course on DeepAI
